@@ -1,0 +1,2 @@
+Link mapa mental: https://lucid.app/lucidspark/e2a202cb-bec6-433c-a203-ba34a530a286/edit?viewport_loc=1749%2C-438%2C2089%2C1078%2C0_0&invitationId=inv_a5ef2b90-bd6e-48bb-8aab-219a8eadf1f5
+Link descarga workbench y bases de datos de ejemplo:https://dev.mysql.com/doc/index-other.html
